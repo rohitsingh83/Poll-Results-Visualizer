@@ -1,0 +1,7 @@
+Rank,Preferred Tool,Votes,Vote_Share_Pct,Cumulative_Share_Pct,Avg_Satisfaction,Median_Satisfaction,Recommend_Rate_Pct,Avg_Feedback_Length
+1,Python,151,30.2,30.2,4.05,4.0,91.39,102.1
+2,Power BI,113,22.6,52.8,4.1,4.0,86.73,101.2
+3,SQL,94,18.8,71.6,3.85,4.0,81.91,96.5
+4,Excel,68,13.6,85.2,3.5,4.0,69.12,99.1
+5,Tableau,49,9.8,95.0,4.08,4.0,91.84,94.0
+6,R,25,5.0,100.0,3.2,3.0,60.0,96.8
